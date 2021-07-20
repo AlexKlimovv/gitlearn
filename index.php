@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+$settings = phpinfo();
 
-
+echo "Hello World";
